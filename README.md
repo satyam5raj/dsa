@@ -9,7 +9,7 @@ Basics: push, pop, shift, unshift, splice
 
 2D arrays
 
-Sliding window, prefix sum, subarrays
+Two pointers, Sliding window, prefix sum, subarrays
 
 2. Strings
 
