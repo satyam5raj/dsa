@@ -136,3 +136,162 @@ Start here to build a solid understanding of the language basics:
 * Microservices architecture
 
 ---
+
+
+
+## DSA - Go
+Diving into **Data Structures and Algorithms (DSA)** using Golang will really strengthen your coding and problem-solving skills.
+
+---
+
+### ✅ **Data Structures Topics to Focus On (with Go)**
+
+#### 1. **Arrays and Slices**
+
+* Basic operations (insert, delete, update)
+* Dynamic resizing using slices
+* Two-pointer problems
+
+#### 2. **Strings**
+
+* Manipulation, pattern matching
+* Palindromes, substrings, anagrams
+* Sliding window technique
+
+#### 3. **Linked Lists**
+
+* Singly and Doubly Linked List
+* Reverse a linked list
+* Detect cycle (Floyd’s algorithm)
+* Merge two sorted lists
+
+#### 4. **Stacks and Queues**
+
+* Implement using slices and linked lists
+* Infix to Postfix
+* Valid Parentheses, Min Stack
+* Queue using two stacks
+* Circular Queue
+
+#### 5. **Hashing (Maps in Go)**
+
+* Hash Maps and Hash Sets
+* Frequency counters
+* Detect duplicates, subarrays with given sum
+
+#### 6. **Trees**
+
+* Binary Tree, Binary Search Tree (BST)
+* Tree Traversals (Preorder, Inorder, Postorder)
+* Depth/Height, Diameter, Balanced Tree
+* Lowest Common Ancestor (LCA)
+* Trie (Prefix Tree)
+
+#### 7. **Heaps / Priority Queues**
+
+* Min-Heap, Max-Heap using container/heap
+* Top K elements problems
+
+#### 8. **Graphs**
+
+* Adjacency List and Matrix
+* DFS, BFS
+* Connected components
+* Union-Find / Disjoint Set
+* Topological Sort
+* Shortest Path: Dijkstra, Bellman-Ford
+* Minimum Spanning Tree: Prim, Kruskal
+
+#### 9. **Recursion and Backtracking**
+
+* Subsets, Permutations, N-Queens
+* Sudoku Solver
+
+#### 10. **Dynamic Programming (DP)**
+
+* 1D DP: Fibonacci, Climbing Stairs
+* 2D DP: Knapsack, Longest Common Subsequence
+* DP on Trees/Graphs
+* Memoization and Tabulation
+
+#### 11. **Greedy Algorithms**
+
+* Activity selection, Job Scheduling
+* Huffman Coding
+* Fractional Knapsack
+
+#### 12. **Bit Manipulation**
+
+* Bitwise AND/OR/XOR
+* Set/Unset/Toggle Bits
+* Check power of 2, Count set bits
+
+#### 13. **Segment Tree / Fenwick Tree (Binary Indexed Tree)**
+
+* Range sum queries
+* Point updates and lazy propagation
+
+#### 14. **Sliding Window / Two Pointers**
+
+* Maximum subarray sum
+* Longest substring with unique characters
+
+---
+
+### ✅ **Algorithms to Focus On**
+
+#### 🔸 Searching and Sorting
+
+* Binary Search (and variations)
+* Merge Sort, Quick Sort
+* Counting Sort, Bucket Sort
+* Heap Sort
+* Radix Sort
+
+#### 🔸 Divide and Conquer
+
+* Merge sort, Quick sort
+* Closest pair of points
+
+#### 🔸 Greedy Algorithms
+
+* Activity selection, Huffman coding
+
+#### 🔸 Dynamic Programming
+
+* 0/1 Knapsack, Unbounded Knapsack
+* Matrix Chain Multiplication
+* Longest Increasing Subsequence
+* Egg Dropping Problem
+
+#### 🔸 Backtracking
+
+* N-Queens, Sudoku Solver
+* Subsets and permutations
+
+#### 🔸 Graph Algorithms
+
+* DFS, BFS
+* Dijkstra, Bellman-Ford
+* Floyd Warshall
+* Kruskal, Prim (MST)
+* Topological Sort
+* Union-Find (Disjoint Sets)
+* Bridges, Articulation Points (Tarjan’s)
+
+#### 🔸 String Algorithms
+
+* KMP, Rabin-Karp (Pattern Matching)
+* Z-Algorithm
+* Trie
+* Suffix Array / Tree (Advanced)
+
+#### 🔸 Number Theory
+
+* Prime Numbers (Sieve of Eratosthenes)
+* GCD, LCM (Euclidean Algorithm)
+* Modular Arithmetic
+* Fermat’s Theorem
+* Modular Inverse
+
+---
